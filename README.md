@@ -8,7 +8,7 @@ have been more than fascinating.
 
 During my leaning journey I've had to privilage to practice with real-world projects that have put my knowledge to the test. With some effort,
 I've been able to take on all tasks with perfect completion. Boosting my confidence in the field of data analysis, and further cementing my 
-skills in applications such as Google Sheets, SQL (SQLite, and Postgre), and Tableau.
+skills in applications such as Google Sheets, SQL (SQLite, and Postgre), Tableau, and Power BI.
 
 Some fun acts about me:
 - I read a lot, hike, and love computer games.
