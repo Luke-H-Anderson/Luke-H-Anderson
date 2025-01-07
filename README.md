@@ -1,4 +1,4 @@
-## Hi there, I'm Luke, a BIA Student at TripleTen
+## Hi there, I'm Luke, a BIA Graduate at TripleTen
 
 [Linkedin](www.linkedin.com/in/luke-anderson-a1a33b121)
 
