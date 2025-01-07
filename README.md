@@ -1,6 +1,6 @@
 ## Hi there, I'm Luke, a BIA Student at TripleTen
 
-[Linkedin] www.linkedin.com/in/luke-anderson-a1a33b121
+[Linkedin](www.linkedin.com/in/luke-anderson-a1a33b121)
 
 I'm currently finisihing up my classes at TripleTen. I recently completed Tableau and now I'm on to PowerBi. I enrolled a few months ago,
 and I must say I'm loving it. I had no idea there was a whole world of data ready to be discovered, and the tools to create that discovery 
